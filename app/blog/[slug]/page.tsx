@@ -7,6 +7,7 @@ import { ReadingProgress } from '@/components/ReadingProgress';
 import { ShareButtons } from '@/components/ShareButtons';
 import { TableOfContents } from '@/components/TableOfContents';
 import { PostCard } from '@/components/PostCard';
+import { Comments } from '@/components/Comments';
 import { siteConfig } from '@/lib/config';
 import type { Metadata } from 'next';
 import { MDXRemote } from 'next-mdx-remote/rsc';
@@ -188,6 +189,9 @@ export default function PostPage({ params }: PostPageProps) {
                 </div>
               </div>
             )}
+
+            {/* Comments */}
+            <Comments slug={params.slug} />
           </div>
 
           {/* Sidebar */}

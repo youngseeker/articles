@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/generate-rss.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -30,6 +31,7 @@
     "rehype-highlight": "^7.0.2",
     "rehype-slug": "^6.0.0",
     "remark-gfm": "^4.0.1",
+    "rss": "^1.2.2",
     "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {

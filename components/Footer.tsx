@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Github, Linkedin, Twitter, Mail } from 'lucide-react';
+import { Github, Linkedin, Twitter, Mail, Rss } from 'lucide-react';
 import { siteConfig } from '@/lib/config';
 
 export function Footer() {
@@ -35,6 +35,11 @@ export function Footer() {
                 <Link href="/contact" className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
                   Contact
                 </Link>
+              </li>
+              <li>
+                <a href="/articles/rss.xml" className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+                  RSS Feed
+                </a>
               </li>
             </ul>
           </div>
@@ -76,6 +81,13 @@ export function Footer() {
                 aria-label="Email"
               >
                 <Mail className="h-6 w-6" />
+              </a>
+              <a
+                href="/articles/rss.xml"
+                className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+                aria-label="RSS Feed"
+              >
+                <Rss className="h-6 w-6" />
               </a>
             </div>
           </div>
