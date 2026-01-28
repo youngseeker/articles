@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Personal Blog]]></title>
+        <description><![CDATA[A blog about philosophy, leadership, and personal growth]]></description>
+        <link>https://youngseeker.github.io/articles</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 28 Jan 2026 09:43:15 GMT</lastBuildDate>
+        <atom:link href="https://youngseeker.github.io/articles/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 28 Jan 2026 09:43:15 GMT</pubDate>
+        <copyright><![CDATA[All rights reserved 2026, Young Seeker]]></copyright>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Vulnerability of True Authority]]></title>
+            <description><![CDATA[Exploring the power of vulnerability and the childlike posture in authentic leadership.]]></description>
+            <link>https://youngseeker.github.io/articles/blog/vulnerability</link>
+            <guid isPermaLink="true">https://youngseeker.github.io/articles/blog/vulnerability</guid>
+            <category><![CDATA[Philosophy]]></category>
+            <category><![CDATA[vulnerability]]></category>
+            <category><![CDATA[authenticity]]></category>
+            <category><![CDATA[presence]]></category>
+            <category><![CDATA[personal-growth]]></category>
+            <dc:creator><![CDATA[Young Seeker]]></dc:creator>
+            <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Paradox of the Inverted Peak]]></title>
+            <description><![CDATA[Redefining success through the lens of inverted leadership and servant mindset.]]></description>
+            <link>https://youngseeker.github.io/articles/blog/inverted-peak</link>
+            <guid isPermaLink="true">https://youngseeker.github.io/articles/blog/inverted-peak</guid>
+            <category><![CDATA[Leadership]]></category>
+            <category><![CDATA[leadership]]></category>
+            <category><![CDATA[servant-leadership]]></category>
+            <category><![CDATA[collaboration]]></category>
+            <category><![CDATA[personal-growth]]></category>
+            <dc:creator><![CDATA[Young Seeker]]></dc:creator>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Law of the Inner Factory]]></title>
+            <description><![CDATA[Understanding the persona tax and the law of inside-out transformation.]]></description>
+            <link>https://youngseeker.github.io/articles/blog/inner-factory</link>
+            <guid isPermaLink="true">https://youngseeker.github.io/articles/blog/inner-factory</guid>
+            <category><![CDATA[Philosophy]]></category>
+            <category><![CDATA[authenticity]]></category>
+            <category><![CDATA[personal-growth]]></category>
+            <category><![CDATA[psychology]]></category>
+            <category><![CDATA[self-awareness]]></category>
+            <dc:creator><![CDATA[Young Seeker]]></dc:creator>
+            <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Architecture of the Unburdened Mind]]></title>
+            <description><![CDATA[Exploring the shift from pilot to steward mindset and the architecture of sustainable success.]]></description>
+            <link>https://youngseeker.github.io/articles/blog/unburdened-mind</link>
+            <guid isPermaLink="true">https://youngseeker.github.io/articles/blog/unburdened-mind</guid>
+            <category><![CDATA[Philosophy]]></category>
+            <category><![CDATA[mindset]]></category>
+            <category><![CDATA[leadership]]></category>
+            <category><![CDATA[personal-growth]]></category>
+            <category><![CDATA[psychology]]></category>
+            <dc:creator><![CDATA[Young Seeker]]></dc:creator>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Next.js: A Comprehensive Guide]]></title>
+            <description><![CDATA[Learn how to build modern web applications with Next.js 14, React Server Components, and the new App Router.]]></description>
+            <link>https://youngseeker.github.io/articles/blog/nextjs-guide</link>
+            <guid isPermaLink="true">https://youngseeker.github.io/articles/blog/nextjs-guide</guid>
+            <category><![CDATA[Technology]]></category>
+            <category><![CDATA[nextjs]]></category>
+            <category><![CDATA[react]]></category>
+            <category><![CDATA[web-development]]></category>
+            <category><![CDATA[tutorial]]></category>
+            <dc:creator><![CDATA[Young Seeker]]></dc:creator>
+            <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Productivity Hacks for Remote Workers]]></title>
+            <description><![CDATA[Practical tips and strategies to stay productive, focused, and balanced while working from home.]]></description>
+            <link>https://youngseeker.github.io/articles/blog/productivity-hacks</link>
+            <guid isPermaLink="true">https://youngseeker.github.io/articles/blog/productivity-hacks</guid>
+            <category><![CDATA[Productivity]]></category>
+            <category><![CDATA[productivity]]></category>
+            <category><![CDATA[remote-work]]></category>
+            <category><![CDATA[work-life-balance]]></category>
+            <category><![CDATA[tips]]></category>
+            <dc:creator><![CDATA[Young Seeker]]></dc:creator>
+            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
