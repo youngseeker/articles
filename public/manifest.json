@@ -1,0 +1,21 @@
+{
+  "name": "Personal Blog",
+  "short_name": "Blog",
+  "description": "A blog about philosophy, leadership, and personal growth",
+  "start_url": "/articles/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/articles/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/articles/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
